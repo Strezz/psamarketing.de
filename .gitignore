@@ -1,0 +1,8 @@
+/.htaccess
+/.vscode
+/cgi-bin
+/index.php
+/info.txt
+/wp-admin
+/wp-config.php
+/wp-includes
